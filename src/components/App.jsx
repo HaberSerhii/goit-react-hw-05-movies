@@ -1,13 +1,9 @@
 import React from 'react';
 import { getTrendingMovies } from './api';
+import { Layout } from './Lyaout/Layout';
 
 export const App = () => {
-  return (
-    <main>
-      <div>Home</div>
-      <div>Movies</div>
-    </main>
-  );
+  return <Layout></Layout>;
 };
 
 console.log(getTrendingMovies());
