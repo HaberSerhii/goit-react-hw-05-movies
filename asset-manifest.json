@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/goit-react-hw-05-movies/static/css/main.371cfb3a.css",
-    "main.js": "/goit-react-hw-05-movies/static/js/main.a5842020.js",
+    "main.js": "/goit-react-hw-05-movies/static/js/main.359babe5.js",
     "static/js/678.d1f24f82.chunk.js": "/goit-react-hw-05-movies/static/js/678.d1f24f82.chunk.js",
     "static/js/618.c92fab11.chunk.js": "/goit-react-hw-05-movies/static/js/618.c92fab11.chunk.js",
     "static/js/969.b15a8915.chunk.js": "/goit-react-hw-05-movies/static/js/969.b15a8915.chunk.js",
@@ -16,7 +16,7 @@
     "static/media/dark-night.jpg": "/goit-react-hw-05-movies/static/media/dark-night.971611f03e3d4b3fd67f.jpg",
     "index.html": "/goit-react-hw-05-movies/index.html",
     "main.371cfb3a.css.map": "/goit-react-hw-05-movies/static/css/main.371cfb3a.css.map",
-    "main.a5842020.js.map": "/goit-react-hw-05-movies/static/js/main.a5842020.js.map",
+    "main.359babe5.js.map": "/goit-react-hw-05-movies/static/js/main.359babe5.js.map",
     "678.d1f24f82.chunk.js.map": "/goit-react-hw-05-movies/static/js/678.d1f24f82.chunk.js.map",
     "618.c92fab11.chunk.js.map": "/goit-react-hw-05-movies/static/js/618.c92fab11.chunk.js.map",
     "969.b15a8915.chunk.js.map": "/goit-react-hw-05-movies/static/js/969.b15a8915.chunk.js.map",
@@ -30,6 +30,6 @@
   },
   "entrypoints": [
     "static/css/main.371cfb3a.css",
-    "static/js/main.a5842020.js"
+    "static/js/main.359babe5.js"
   ]
 }
