@@ -5,7 +5,7 @@ const Logo = () => {
   return (
     <Link to="/">
       <LogoText>
-        <LogoFirstWord>Wes</LogoFirstWord>Allen
+        <LogoFirstWord>Кіно</LogoFirstWord>Пошук
       </LogoText>
     </Link>
   );
