@@ -1,16 +1,15 @@
-import { BiMoviePlay } from 'react-icons/bi';
-import { AiOutlineHome } from 'react-icons/ai';
+import { BiBuildingHouse, BiLogoYoutube } from 'react-icons/bi';
 import { NavLinkStyled, NavStyled } from './NavList.styled';
 
 const NavList = () => {
   return (
     <NavStyled>
       <NavLinkStyled to="/">
-        <AiOutlineHome />
+        <BiBuildingHouse fill="red" />
         <span>Home</span>
       </NavLinkStyled>
       <NavLinkStyled to="/movies">
-        <BiMoviePlay />
+        <BiLogoYoutube fill="red" />
         <span>Movies</span>
       </NavLinkStyled>
     </NavStyled>

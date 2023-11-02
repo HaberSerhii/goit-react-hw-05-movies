@@ -10,10 +10,9 @@ export const NavLinkStyled = styled(NavLink)({
   display: 'flex',
   alignItems: 'center',
   gap: '8px',
-  fontSize: '24px',
+  fontSize: '20px',
   fontWeight: '600',
   letterSpacing: '0.6px',
-  textTransform: 'uppercase',
   color: '#f1f1f1',
   padding: '14px 12px',
   transition:
