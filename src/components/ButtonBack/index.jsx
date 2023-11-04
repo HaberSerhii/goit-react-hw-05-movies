@@ -6,7 +6,11 @@ import { MovieLink } from './ButtonBack.styled';
 
 const ButtonBack = () => {
   const location = useLocation();
-  const backLinkHref = location.state?.from ?? '/';
+  let backLinkHref = location?.state.from || '/';
+
+  if (location.state.path) {
+    backLinkHref = location.state.path;
+  }
 
   return (
     <MovieLink to={backLinkHref}>
